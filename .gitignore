@@ -1,0 +1,6 @@
+/dumps/
+/clean_dumps/
+.idea/
+*.pkl
+uv.lock
+.DS_Store
