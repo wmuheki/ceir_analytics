@@ -1,6 +1,26 @@
+
 /dumps/
 /clean_dumps/
 .idea/
-*.pkl
 uv.lock
 .DS_Store
+*.pkl
+*.parquet
+*.csv
+*.html
+.env
+*.xlsx
+venv/
+
+
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
