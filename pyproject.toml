@@ -8,6 +8,7 @@ dependencies = [
     "dotenv>=0.9.9",
     "geopandas>=1.1.2",
     "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.9",
     "jupyterlab>=4.5.3",
     "k>=0.0.1",
     "lxml",
@@ -19,7 +20,13 @@ dependencies = [
     "psycopg2-binary>=2.9.11",
     "pyarrow>=23.0.1",
     "pyvis>=0.3.2",
+    "scikit-learn>=1.9.0",
     "seaborn>=0.13.2",
+    "torch>=2.13.0",
+    "torchaudio>=2.11.0",
+    "torchvision>=0.28.0",
+    "transformers>=5.15.1",
+    "xgboost>=3.4.1",
 ]
 
 [dependency-groups]
